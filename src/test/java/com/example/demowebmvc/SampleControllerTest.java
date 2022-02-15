@@ -36,7 +36,6 @@ public class SampleControllerTest {
 //                .andExpect(content().string("hello"))
 //                .andExpect(status().isMethodNotAllowed())
 
-        //test
                 ;
 
     }
